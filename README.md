@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![skycat0212's github stats](https://github-readme-stats.vercel.app/api?username=skycat0212)](https://github.com/skycat0212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skycat0212&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg)](https://github.com/anuraghazra/github-readme-stats)
